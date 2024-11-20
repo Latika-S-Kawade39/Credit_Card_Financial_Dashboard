@@ -1,3 +1,3 @@
 # Credit_Card_Financial_Dashboard
-Power BI Dashboard
-SQL
+#Power BI Dashboard
+#SQL
